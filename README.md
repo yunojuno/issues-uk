@@ -13,8 +13,11 @@ If you find a bug, please raise it here, using the following format:
 Please include as much detail as possible - bear in mind that the developer tasked with fixing the issue will need to replicate it before they can find out what is wrong - so they will need to know what page you were on, what button you pressed / link you clicked, what device you were on etc.
 
 1. Device - desktop / tablet / phone
-2. OS - Windows / Mac
-3. URL of page you were on / link you clicked
-4. Freelancer or Employer
+2. OS - Windows / Mac / Linux
+3. Browser you are using (Tip: using http://supportdetails.com/ makes it easy to capture full details)
+4. URL of page you were on / the link you clicked
+5. Whether it affects a Freelancer, an Employer or Backoffice 
+
+NB: this is a publicly readable list, so please do not disclose YJ user informaton here (names, emails, contract details, fees etc - those can be passed directly to the developer who picks up the card)
 
 Please add screenshots - or write another 1,000 words.
