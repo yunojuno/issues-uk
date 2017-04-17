@@ -18,6 +18,6 @@ Please include as much detail as possible - bear in mind that the developer task
 4. URL of page you were on / the link you clicked
 5. Whether it affects a Freelancer, an Employer or Backoffice 
 
-NB: this is a publicly readable list, so please do not disclose YJ user informaton here (names, emails, contract details, fees etc - those can be passed directly to the developer who picks up the card)
+NB: this is a publicly readable list, so please do not disclose YJ user information here (names, emails, booking details, fees etc - those can be passed directly to the developer who picks up the card)
 
 Please add screenshots - or write another 1,000 words.
